@@ -20,7 +20,7 @@ Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/MVC).
 <br>
 Fonte: [Tableless](https://tableless.com.br/mvc-afinal-e-o-que/).
 ##
-Trabalho desenvolvido com a orientação do Professor Atila Olivi, com a proposta de:
+## Trabalho desenvolvido com a proposta de:
 - Seguir passos do tutorial do [Google Docs](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-5.0&tabs=visual-studio)
 - Adicionar um controlador
 - Adicionar uma exibição
